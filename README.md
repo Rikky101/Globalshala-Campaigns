@@ -16,10 +16,12 @@ The Marketing team at GlobalShala provided a cleaned and organized dataset- [Mar
 ## Analysis and Visualization
  The provided data was analyzed to evaluate the cost-effectiveness of each campaign in reaching and engaging the target audience by focusing on key performance indicators, including cost per click, cost per result, reach, impressions and unique click through rate.
 
-Visualizations, including bar charts and scatter plots, were used to showcase the underperforming campaigns recommended to discontinue to the marketing team. This can be viewed in the dashboard created: [Globalshala_dashboard](https://github.com/Rikky101/Globalshala-Campaigns/blob/main/Globalshala%20Dashboard.pbix). In addition, a powerpoint presentation was created to highlight key insights, visualized data trends, and our final recommendation [Campaign_analysis_presentation](https://github.com/Rikky101/Globalshala-Campaigns/blob/main/Globalshala%20Analysis%20Presentation.pdf) 
+Visualizations, including bar charts and scatter plots, were used to showcase the underperforming campaigns recommended to discontinue to the marketing team. This can be viewed in the dashboard created: [Globalshala_dashboard](https://github.com/Rikky101/Globalshala-Campaigns/blob/main/Globalshala%20Dashboard.pbix). 
+
+In addition, a powerpoint presentation was created to highlight key insights, visualized data trends, and our final recommendation [Campaign_analysis_presentation](https://github.com/Rikky101/Globalshala-Campaigns/blob/main/Globalshala%20Analysis%20Presentation.pdf) 
 
 
-## Conclusion and Recommendation
+## Conclusion
 After carefully evaluating the key metrics, discontinuing campaign 3 & 10 was recommended, as it exhibited low cost per result amongst other campaigns. By removing this underperforming campaigns, the Marketing team can allocate resources more efficiently, reducing costs while maintaining overall outreach and engagement.
 
 
